@@ -1,0 +1,11 @@
+ESP32_Firebase/build/
+ESP32_Firebase/.vscode/
+Python face recognize/dataset/
+Python face recognize/__pycache__/
+Python face recognize/result_images/
+Python face recognize/tested_images/
+Python face recognize/test_images/
+*.json
+*.cfg
+*.svd
+*.pickle
